@@ -16,5 +16,5 @@ use red bottle
 use large red bottle  
 go east			(to home)  
 
-There are though many other options!
+There are though many other options!  
 See map.pdf to understand the map. 
